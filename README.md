@@ -1,5 +1,5 @@
 # readme_template
-Thanks: https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
+Thanks: [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) - The readme template is taken. Date: 02/03/20120.
 ---
 
 # Project Title
